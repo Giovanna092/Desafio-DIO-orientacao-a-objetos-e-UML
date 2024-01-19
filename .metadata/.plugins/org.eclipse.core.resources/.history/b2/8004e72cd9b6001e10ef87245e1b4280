@@ -1,0 +1,22 @@
+
+public class ReprodutorMusical {
+
+	private String nome; 
+	
+	
+	public ReprodutorMusical() {}
+
+	public void tocar() {
+		
+	}
+	
+	public void pausar() {
+		
+	}
+	
+	public void selecionarMusica() {
+		
+	}
+	
+	
+}
